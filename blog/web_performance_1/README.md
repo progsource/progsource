@@ -22,7 +22,7 @@ Mit Klick auf das Firebug-Icon öffnet sich die Konsole.
 Unter dem Punkt Netzwerk (muss ggf. zuvor aktiviert werden), stehen verschieden farbige Balken mit Angaben in
 Millisekunden.
 
-![Screenshot](web_performance_001_screen.jpg)
+![Screenshot](web_performance_1/web_performance_001_screen.jpg)
 
 Im Screenshot sieht man z. B., dass die aufgerufene Website insgesamt 215 ms geladen hat. Die Dateien werden
 einzeln aufgeführt und so erkennt man, wo Verbesserungen notwendig sind.
