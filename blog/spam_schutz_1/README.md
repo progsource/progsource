@@ -46,7 +46,7 @@ Das CSS muss dementsprechend folgendes enthalten:
 Schlusswort
 -------------
 
-Im PHP-Script zum Verarbeiten des Kontaktformulars prüft man zunächst, ob $_POST['dau'] leer ist. Wenn dem nicht so ist,
+Im PHP-Script zum Verarbeiten des Kontaktformulars prüft man zunächst, ob `$_POST['dau']` leer ist. Wenn dem nicht so ist,
 handelt es sich mit hoher Wahrscheinlichkeit um einen Bot und keine reale Person. Als Folge kann man eine Fehlermeldung
 ausgeben oder das Script beenden.
 
