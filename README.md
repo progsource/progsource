@@ -13,4 +13,6 @@ Old blog posts (german only)
 - <a href="https://github.com/progsource/progsource/tree/master/blog/passwoerter_mit_php_generieren">Passwörter mit PHP generieren</a>
 - <a href="https://github.com/progsource/progsource/tree/master/blog/web_performance_2">Web-Performance #2: CSS und JavaScript optimieren</a>
 - <a href="https://github.com/progsource/progsource/tree/master/blog/meine_liebsten_programme">Meine liebsten Programme</a>
+- <a href="https://github.com/progsource/progsource/tree/master/blog/jquery_paginierung">Paginierung mit JavaScript (jQuery)</a>
+- <a href="https://github.com/progsource/progsource/tree/master/blog/bee5">Geld verdienen im Internet mit Provisionen und Einkäufen</a>
 
