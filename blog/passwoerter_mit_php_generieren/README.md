@@ -20,26 +20,32 @@ Passwörter generiert.
 Möchte man ein Passwort mit mindestens 8 Zeichen erstellen, das unterschiedliche Zeichen enthält, muss man lediglich
 folgenden Code einbauen:
 
-    <?php
-    require_once('Text/Password.php');
-    $pw = Text_Password::create(8, 'unpronounceable');
+```php
+<?php
+require_once('Text/Password.php');
+$pw = Text_Password::create(8, 'unpronounceable');
+```
 
 Damit generierte Passwörter wären zum Beispiel: „h%4lAB3z“, „Ga#LHZiK“ und „WkPJ_4to“.
 
 Sollte die Sicherheit niedriger eingestuft sein, kann mit Text_Password auch ein „aussprechbares“ Passwort,
 das nur Buchstaben enthält, erzeugt werden:
 
-    $pw = Text_Password::create(8, 'pronounceable');
+```php
+$pw = Text_Password::create(8, 'pronounceable');
+```
 
 „claechae“, „ueastiac“ oder „haleuedr“ wären mögliche Ergebnisse.
 
 Mehrere Passwörter kann man zur gleichen Zeit generieren, indem der folgende Code benutzt wird:
 
-    $pw_array  = array();
-    $pw_array  = Text_Password::createMultiple(3);
+```php
+$pw_array  = array();
+$pw_array  = Text_Password::createMultiple(3);
 
-    $pw_array2 = array();
-    $pw_array2 = Text_Password::createMultiple(3, 10, 'unpronounceable');
+$pw_array2 = array();
+$pw_array2 = Text_Password::createMultiple(3, 10, 'unpronounceable');
+```
 
 Dabei erhält man ein Array mit entsprechender Menge an Passwörtern. In dem ersten Beispiel könnten zum Beispiel
 folgende Passwörter heraus kommen: „drebaibiph“, „crifriacra“ und „dabiniamou“.

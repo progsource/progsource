@@ -15,25 +15,27 @@ Formularbeispiel
 
 Ein Kontaktformular könnte wie folgt aussehen:
 
-    <form method="post" action="kontakt.php">
-        <fieldset>
-            <legend><label for="name">Name:</label></legend>
-            <input type="text" name="name" id="name" />
-        </fieldset>
-        <fieldset>
-            <legend><label for="email">E-Mail:</label></legend>
-            <input type="text" name="email" id="email" />
-        </fieldset>
-        <fieldset>
-            <legend><label for="nachricht">Nachricht:</label></legend>
-            <textarea rows="20" cols="14" name="nachricht" id="nachricht"></textarea>
-        </fieldset>
-        <fieldset class="dau">
-            <legend><label for="dau_text">Bitte f&uuml;llen Sie das folgende Feld nicht aus:</label></legend>
-            <input type="text" name="dau" id="dau_text" value="" />
-        </fieldset>
-        <input type="submit" value="Absenden" />
-    </form>
+```html
+<form method="post" action="kontakt.php">
+    <fieldset>
+        <legend><label for="name">Name:</label></legend>
+        <input type="text" name="name" id="name" />
+    </fieldset>
+    <fieldset>
+        <legend><label for="email">E-Mail:</label></legend>
+        <input type="text" name="email" id="email" />
+    </fieldset>
+    <fieldset>
+        <legend><label for="nachricht">Nachricht:</label></legend>
+        <textarea rows="20" cols="14" name="nachricht" id="nachricht"></textarea>
+    </fieldset>
+    <fieldset class="dau">
+        <legend><label for="dau_text">Bitte f&uuml;llen Sie das folgende Feld nicht aus:</label></legend>
+        <input type="text" name="dau" id="dau_text" value="" />
+    </fieldset>
+    <input type="submit" value="Absenden" />
+</form>
+```
 
 Der wichtige Teil des Formulars ist das fieldset mit der Klasse „dau“. Dieses wird mit CSS versteckt, damit es ein
 „normaler“ Besucher nicht sieht. Für alle, die CSS nicht aktiviert haben (man denke an Screen-Reader) gibt es den
@@ -41,7 +43,9 @@ Infotext.
 
 Das CSS muss dementsprechend folgendes enthalten:
 
-    .dau { display: none; }
+```css
+.dau { display: none; }
+```
 
 Schlusswort
 -------------
