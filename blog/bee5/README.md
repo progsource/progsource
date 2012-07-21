@@ -29,7 +29,8 @@ Selbst einkaufen
 Bei Bee5 gibt es über 3.000 Shops mit denen man Geld verdienen kann. Manche davon geben nur Provisionen, wenn man
 jemandem etwas weiterempfohlen hat. Bei vielen kann man aber auch bereits dann etwas bekommen, wenn man selbst einkauft.
 
-h3.Es geht ganz einfach:
+Es geht ganz einfach:
+------------
 
 - Bei Bee5 die URL des gewünschten Shops/Produkts eingeben
 - Auf die Lupe klicken oder Enter drücken

@@ -12,18 +12,20 @@ Plugins können den Entwicklungsprozess noch stärker beschleunigen,
 
 Viele kostenlose Erweiterungen gibt es auf der <a href="http://plugins.jquery.com/" target="_blank">jQuery</a>
 Seite selbst zum Download. Davon abgesehen gibt es zum Beispiel noch
-<a href="http://jqueryui.com/" target="_blank"jQuery UI</a> oder
+<a href="http://jqueryui.com/" target="_blank">jQuery UI</a> oder
 <a href="http://flowplayer.org/tools/" target="_blank">jQuery Tools</a>.
 
 Paginierung
 -------------
 
-h3.Zutaten:
+Zutaten:
+------------
 
 - <a href="http://docs.jquery.com/Downloading_jQuery" target="_blank">jQuery</a>
 - <a href="http://plugins.jquery.com/project/pagination" target="_blank">jQuery Pagination Plugin</a>
 
-h3.Zubereitung:
+Zubereitung:
+------------
 
 Man nehme ein HTML Dokument mit folgendem Aufbau:
 

@@ -20,13 +20,13 @@ nicht des »Wie«.
 
 Die Gliederung eines Lastenhefts teilt sich in die folgenden 7 Punkte:
 
-# Zielbestimmung
-# Produkteinsatz (Anwendungsbereiche und Zielgruppen)
-# Produktfunktionen (Kernfunktion nummeriert mit /LF10/, /LF20/, ...)
-# Produktdaten (Hauptdaten nummeriert mit /LD10/, /LD20/, ...)
-# Produktleistungen (Leistungsanforderungen nummeriert mit /LL10/, /LL20/, ...)
-# Qualitätsanforderungen
-# Ergänzungen
+1. Zielbestimmung
+2. Produkteinsatz (Anwendungsbereiche und Zielgruppen)
+3. Produktfunktionen (Kernfunktion nummeriert mit /LF10/, /LF20/, ...)
+4. Produktdaten (Hauptdaten nummeriert mit /LD10/, /LD20/, ...)
+5. Produktleistungen (Leistungsanforderungen nummeriert mit /LL10/, /LL20/, ...)
+6. Qualitätsanforderungen
+7. Ergänzungen
 
 Aufbau eines LaTeX-Dokuments
 -------------
@@ -147,7 +147,8 @@ Daten und Leistungen zu nummerieren.
 \end{document} % Hier endet das Dokument
 ```
 
-Das daraus resultierende PDF-Dokument zum Herunterladen: Lastenheft Grundgerüst (PDF, 49KB).
+Das daraus resultierende PDF-Dokument zum Herunterladen:
+<a href="https://github.com/progsource/progsource/raw/master/blog/lastenheft_schreiben_mit_latex/lastenheft_grundgeruest.pdf">Lastenheft Grundgerüst (PDF, 49KB)</a>.
 
 LaTeX Einführung?
 -------------
