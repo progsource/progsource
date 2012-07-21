@@ -15,4 +15,4 @@ Old blog posts (german only)
 - <a href="https://github.com/progsource/progsource/tree/master/blog/meine_liebsten_programme">Meine liebsten Programme</a>
 - <a href="https://github.com/progsource/progsource/tree/master/blog/jquery_paginierung">Paginierung mit JavaScript (jQuery)</a>
 - <a href="https://github.com/progsource/progsource/tree/master/blog/bee5">Geld verdienen im Internet mit Provisionen und Einkäufen</a>
-- <a href="https://github.com/progsource/progsource/tree/master/blog/lastenheft_schreiben_mit_latex5">Lastenheft schreiben mit LaTeX</a>
+- <a href="https://github.com/progsource/progsource/tree/master/blog/lastenheft_schreiben_mit_latex">Lastenheft schreiben mit LaTeX</a>
