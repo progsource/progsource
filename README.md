@@ -6,6 +6,7 @@ This is the archive of proǵsource.de
 
 ### English
 
+* [PHP Unconference 2013](https://github.com/progsource/progsource/tree/master/blog/php-unconference-2013)
 * [Git basics](https://github.com/progsource/progsource/tree/master/blog/git-basics)
 
 ### German
