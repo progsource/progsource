@@ -1,10 +1,14 @@
-progsource
-==========
+# progsource
 
 This is the archive of proǵsource.de
 
-Old blog posts (german only)
--------------
+## Old blog posts
+
+### English
+
+* [Git basics](https://github.com/progsource/progsource/tree/master/blog/git-basics)
+
+### German
 
 - <a href="https://github.com/progsource/progsource/tree/master/blog/minimalistische_Projektplanung">minimalistische Projektplanung</a>
 - <a href="https://github.com/progsource/progsource/tree/master/blog/web_performance_1">Web-Performance #1: Ladezeiten mit Firebug messen</a>
